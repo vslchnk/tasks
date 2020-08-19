@@ -2,6 +2,8 @@
 ## Task 1
 To run the script you need Python version >= 3.6 installed. To run the script execute `python random_numbers.py` in the terminal or use any other command for python which you have for Python version >= 3.6.
 
+Secrets module was used because it's more secure than random module.
+
 ## Task 2
 Since it's the only server which is used for SSL offloading and proxies it would be great to have resources utilization metrics:
 - CPU usage
